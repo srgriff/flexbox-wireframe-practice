@@ -1,0 +1,16 @@
+
+
+
+.wireframe-container {
+        display: flex;
+        flex-direction: column; 
+
+
+
+      .main-content-section {
+        flex: 1; 
+    }
+
+    .aside-section {
+        flex: 0 0 250px; 
+    }
